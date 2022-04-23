@@ -1,4 +1,10 @@
-# Full Stack TypeScript [![CI](https://github.com/mike-north/full-stack-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/mike-north/full-stack-ts/actions/workflows/ci.yml)
+
+# My Notes (developer833):
+
+- having the right enforecment of things in the right places === good fullstack setup
+
+---
+## Full Stack TypeScript [![CI](https://github.com/mike-north/full-stack-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/mike-north/full-stack-ts/actions/workflows/ci.yml)
 
 Mike North's Full Stack TypeScript course
 
